@@ -2,8 +2,8 @@
 
 > 提醒： 滥用可能导致账户被BAN！！！ 
 
-> 提醒： Heroku 已经封禁本专案，请 Fork 本专案后，将 README.md 中的 qwer 替换为自己的用户名后，再进行部署。 
->![image](https://img.00000.host/2021/12/31/211411b74b561778f03da531e9cb979b.png)
+> 提醒： Heroku 已经封禁本专案，请 Fork 本专案后，将 README.md 中的 qwer-search 替换为自己的用户名后，再进行部署。 
+>![image](https://img.00000.host/2021/12/31/d1ffeb90476d0f85bd2d3cc5a9ac03ca.png)
 
 ## 概述
 
